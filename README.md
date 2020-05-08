@@ -1,2 +1,2 @@
 # Econometrics-in-Python
-Colab notebooks for Econometrics in python
+Colab notebooks for Econometrics in Statsmodels library in Python
